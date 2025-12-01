@@ -64,4 +64,4 @@ Browse the Routes section to see route-specific operational notes in action. Rev
 
 **Questions or feedback?** Contact: roadnotesvictoria@gmail.com
 
-*Version 1.0 Development Site | January 2025 | Demonstrating the Future of Operator Knowledge Sharing*
+Road Notes Development Site | Genesis 0.1.0 | January 2025
