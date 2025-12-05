@@ -1,4 +1,5 @@
 site_name: Road Notes
+site_description: By Operators, For Operators.
 
 theme:
   name: material
@@ -21,38 +22,12 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.tracking
     - toc.follow
 
   icon:
     logo: simple/note
-
-nav:
-  - Home:
-    - About Road Notes: index.md
-    - How to Contribute: Home/contribute.md
-    - Vision & Standards: Home/standards.md
-  - Routes:
-    - About Routes Section: Routes/routes.md
-    - Route 4: Routes/route-004.md
-    - Route 8: Routes/route-008.md
-    - Route 6: Routes/route-006.md
-    - Route 12: Routes/route-012.md
-    - Route 14: Routes/route-014.md
-    - Route 26: Routes/route-026.md
-    - Route 27: Routes/route-027.md
-    - Route 30: Routes/route-030.md
-    - Route 72: Routes/route-072.md
-    - Route 95: Routes/route-095.md
-  - ProNotes:
-    - About ProNotes Section: Pronotes/pronotes.md
-    - Commercial Driving Law: Pronotes/legal.md
-    - Winter Driving: Pronotes/winterdrive.md
-    - Relief Points: Pronotes/reliefpoints.md
-    - Yard Speed Limits: Pronotes/yardspeed.md
-    - Conflict Deescalation: Pronotes/deescalation.md
-    - Pre-triping the Bus: Pronotes/pretrip.md
 
 extra:
   consent:
